@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+    background-image: url(
+
+    );
+
+}
+
+
+.container{
+
+ display: flex;
+ align-items: center;
+}
+
+#img2{
+
+padding-left: 400px;
+display: flex;
+
+}
+
+.titulo1{
+
+padding-left: 440px;
+
+
+}
